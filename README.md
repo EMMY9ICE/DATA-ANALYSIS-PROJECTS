@@ -34,6 +34,11 @@ The key objective was to:
   
   6. Give my thoughts where I deem fit and give my recommendation at the end
 
+This is a snapshot of one the chart that answered a paricular question during the analysis.
+
+
+<img width="451" alt="Top10_Households_by_Sales" src="https://github.com/EMMY9ICE/DATA-ANALYSIS-PROJECTS/assets/101521067/ad5bbf86-349f-4423-84d8-9c8c0695db34">
+
 
 ## Data Sources
 
